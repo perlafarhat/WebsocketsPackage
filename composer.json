@@ -1,0 +1,17 @@
+{
+    "name": "farhat/websocket",
+    "autoload": {
+        "psr-4": {
+            "Farhat\\Websocket\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Perla Farhat",
+            "email": "perlafarhatt@gmail.com"
+        }
+    ],
+    "require": {
+        "pusher/pusher-php-server": "^7.2"
+    }
+}
